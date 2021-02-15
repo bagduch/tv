@@ -1,0 +1,5 @@
+.idea/*
+app/dist/
+app/dist_electorn/
+app/node_modules/
+server/node_modules/
